@@ -12,4 +12,4 @@ Languages:
 Description:
 
 Screenshots:
-![ScreenShot](https://github.com/martafonda/movies_webpage/blob/master/img/layout.png)
+![ScreenShot](https://raw.github.com/martafonda/movies_webpage/master/img/layout.png)
