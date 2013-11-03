@@ -10,3 +10,6 @@ Languages:
 	* CSS
 	* HTML
 Description:
+
+Screenshots:
+![ScreenShot](https://github.com/martafonda/movies_webpage/blob/master/img/layout.png)
